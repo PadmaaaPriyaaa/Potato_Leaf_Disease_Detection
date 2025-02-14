@@ -28,19 +28,19 @@ System Architecture:
 
 Hardware Requirements:
 
-    Operating system: Windows only
+   Operating system: Windows only
             
-    Processor: i5 and above
+   Processor: i5 and above
             
-    Ram: 8 GB and above 
+   Ram: 8 GB and above 
             
-    Hard disk: 25 GB in local drive
+   Hard disk: 25 GB in local drive
 
 Software Requirements:
           
-    Primary language: Python
+   Primary language: Python
           
-    Framework: Jupyter notebook
+   Framework: Jupyter notebook
 
 Conclusion:
 
