@@ -6,23 +6,23 @@ Potato leaf disease detection is crucial for food security, as diseases like ear
 
 System Architecture:
 
- 1.Image Acquisition:
+  1.Image Acquisition:
    
    The leftmost image shows a camera setup, likely used for capturing plant leaf images.
 
- 2.Preprocessing & Feature Extraction:
+  2.Preprocessing & Feature Extraction:
 	
    The next step involves image processing, possibly using techniques like segmentation or feature extraction
 
- 3.Dataset Preparation:
+  3.Dataset Preparation:
  
    The Plant Leaf Disease Dataset is used for training the model.
 
- 4.Deep Learning Model:
+  4.Deep Learning Model:
 
    A neural network (likely CNN) processes the dataset to classify the images.
 
- 5.Classification Output:
+  5.Classification Output:
     
    The model predicts whether a leaf is Healthy, Early Blight, or Late Blight.This design suggests an AI-based disease detection system for plants, which could be useful in precision agriculture to identify plant diseases early and take preventive measures.
 
