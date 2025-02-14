@@ -8,35 +8,35 @@ System Architecture:
 
 1.Image Acquisition:
    
-     The leftmost image shows a camera setup, likely used for capturing plant leaf images.
+   The leftmost image shows a camera setup, likely used for capturing plant leaf images.
 2.Preprocessing & Feature Extraction:
 	
-     The next step involves image processing, possibly using techniques like segmentation or feature extraction
+   The next step involves image processing, possibly using techniques like segmentation or feature extraction
 3.Dataset Preparation:
  
-     The Plant Leaf Disease Dataset is used for training the model.
+   The Plant Leaf Disease Dataset is used for training the model.
 4.Deep Learning Model:
 
-     A neural network (likely CNN) processes the dataset to classify the images.
+   A neural network (likely CNN) processes the dataset to classify the images.
 5.Classification Output:
     
-     The model predicts whether a leaf is Healthy, Early Blight, or Late Blight.This design suggests an AI-based disease detection system for plants, which could be useful in precision agriculture to identify plant diseases early and take preventive measures.
+   The model predicts whether a leaf is Healthy, Early Blight, or Late Blight.This design suggests an AI-based disease detection system for plants, which could be useful in precision agriculture to identify plant diseases early and take preventive measures.
 
 Hardware Requirements:
 
-        Operating system: Windows only
+    Operating system: Windows only
             
-        Processor: i5 and above
+    Processor: i5 and above
             
-        Ram: 8 GB and above 
+    Ram: 8 GB and above 
             
-        Hard disk: 25 GB in local drive
+    Hard disk: 25 GB in local drive
 
 Software Requirements:
           
-        Primary language: Python
+    Primary language: Python
           
-        Framework: Jupyter notebook
+    Framework: Jupyter notebook
 
 Conclusion:
 
